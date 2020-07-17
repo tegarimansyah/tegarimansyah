@@ -8,6 +8,8 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10562487?label=Tegar%27s%20Reputation&style=social&logo=Stackoverflow)](https://stackoverflow.com/users/10562487)
 [![GitHub followers](https://img.shields.io/github/followers/tegarimansyah?label=Follower&style=social)](https://github.com/tegarimansyah?tab=followers) 
 
+[![HitCount](http://hits.dwyl.com/tegarimansyah/tegarimansyah.svg)](http://hits.dwyl.com/tegarimansyah/tegarimansyah)
+
 ---
 
 ## Now
@@ -34,7 +36,7 @@ This section is inspired by [The /now page movement](https://sivers.org/nowff). 
 <details>
 <summary>Click to See Personal Project</summary>
 
-### Personal Project
+### Personal Project, Start Now!
 
 The Project I want to start this quarter
 
@@ -45,6 +47,7 @@ The Project I want to start this quarter
 - [ ] Hydroponics
 </details>
 
+## Done
 
 <details>
 <summary>Click to See Past Activities</summary>
@@ -52,6 +55,13 @@ The Project I want to start this quarter
 ### Past Activities
 
 Activities that worth mentioning in public [written here](https://github.com/tegarimansyah/tegarimansyah/blob/master/past_activities.md), including my talk or workshop. If you want to invite me for seminar or workshop, please refer to the section below.
+
+</details>
+
+<details>
+<summary>Click to See My Previous Project</summary>
+
+> To be added
 
 </details>
 
