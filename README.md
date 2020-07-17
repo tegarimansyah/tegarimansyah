@@ -8,8 +8,6 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10562487?label=Tegar%27s%20Reputation&style=social&logo=Stackoverflow)](https://stackoverflow.com/users/10562487)
 [![GitHub followers](https://img.shields.io/github/followers/tegarimansyah?label=Follower&style=social)](https://github.com/tegarimansyah?tab=followers) 
 
-[![HitCount](http://hits.dwyl.com/tegarimansyah/tegarimansyah.svg)](http://hits.dwyl.com/tegarimansyah/tegarimansyah)
-
 ---
 
 ## Now
