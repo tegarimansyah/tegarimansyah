@@ -14,16 +14,6 @@
 
 This section is inspired by [The /now page movement](https://sivers.org/nowff). The list below is what I want to do in Q3 2020, the other activities will most likely be rejected. Last update 17 July 2020.
 
-- Working in [Alterra](https://alterra.id) Malang as a Software Architect.
-- IoT Specialist in [PiTech System](https://www.linkedin.com/company/pitech-system/), Start Up that developing Poultry Farming 
-- Advising and oversees [Surabaya.py](https://t.me/surabayadotpy), Surabaya Python User Group.
-- Organize some tech community: 
-    - [Python Indonesia](https://t.me/pythonID)
-    - Python Conference APAC 2020 [Country Representative](https://wiki.python.org/moin/PyConAPAC/Community)
-    - [Jatim Developer Day - Web Division](https://github.com/jatimdevday)
-    - [GDG Cloud Surabaya](https://gdg.community.dev/gdg-cloud-surabaya/)
-- Sharing knowledge in some tech communities. _The current limit is at most once in a quarter of the year_.
-
 <details>
 <summary>Click to See Current Responsibilities</summary>
 
@@ -61,7 +51,7 @@ The Project I want to start this quarter
 
 ### Past Activities
 
-Activities that worth mentioning in public [written here](past_activities.md), including my talk or workshop. If you want to invite me for seminar or workshop, please refer to the section below.
+Activities that worth mentioning in public [written here](https://github.com/tegarimansyah/tegarimansyah/blob/master/past_activities.md), including my talk or workshop. If you want to invite me for seminar or workshop, please refer to the section below.
 
 </details>
 
@@ -81,7 +71,8 @@ You can contact me @tegarimansyah in [telegram](https://t.me/tegarimansyah), [fa
   * Software Engineer
   * IoT Enthusiast 
   * Software Architect at Alterra 
-* **Picture**: [Click Here](me.jpg)
+* **Picture**: [Click Here](https://github.com/tegarimansyah/tegarimansyah/blob/master/me.jpeg)
 
 </details>
 
+## Please Contribute to My Pinned Open Source Project Bellow
