@@ -19,8 +19,8 @@ This section is inspired by [The /now page movement](https://sivers.org/nowff). 
 
 ### Current Responsibilities
 
-- Working in [Alterra](https://alterra.id) Malang as a Software Architect.
-- IoT Specialist in [PiTech System](https://www.linkedin.com/company/pitech-system/), Start Up that developing Poultry Farming 
+- Software Architect in [Alterra](https://alterra.id), try to innovating Bill & Payment Solution in Indonesia.
+- IoT Development in [PiTech System](https://www.linkedin.com/company/pitech-system/), try to solving Poultry Farming problem. 
 - Advising and oversees [Surabaya.py](https://t.me/surabayadotpy), Surabaya Python User Group.
 - Organize some tech community: 
     - [Python Indonesia](https://t.me/pythonID)
