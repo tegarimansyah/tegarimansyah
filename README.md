@@ -5,7 +5,7 @@
 [![Instagram Badge](http://img.shields.io/badge/--gray?style=for-the-badge&logo=Instagram&label=Photoshoot%20%26%20Inspiration)](https://instagram.com/tegarimansyah)
 [![Telegram Badge](http://img.shields.io/badge/--gray?style=for-the-badge&logo=Telegram&label=Chat%20via%20Telegram)](https://t.me/tegarimansyah)
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10562487?label=Tegar%27s%20Reputation&style=social&logo=Stackoverflow)](https://stackoverflow.com/users/10562487)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10562487?label=Tegar%27s%20Reputation&logo=Stackoverflow)](https://stackoverflow.com/users/10562487)
 [![GitHub followers](https://img.shields.io/github/followers/tegarimansyah?label=Follower&style=social)](https://github.com/tegarimansyah?tab=followers) 
 
 ---
